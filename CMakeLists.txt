@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10.2)
+project(FNN)
+set(CMAKE_CXX_STANDARD 14)
+#set(CMAKE_CXX_FLAGS "-lsfml-graphics -lsfml-window -lsfml-system")
+add_executable(FNN main.cpp utility_f.cpp Layer.cpp FFN.cpp)
+target_link_libraries(FNN sfml-graphics sfml-window sfml-system)

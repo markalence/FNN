@@ -1,0 +1,3 @@
+/home/mark/CLionProjects/Feed-Forward-Neural-Network/CMakeFiles/rebuild_cache.dir
+/home/mark/CLionProjects/Feed-Forward-Neural-Network/CMakeFiles/edit_cache.dir
+/home/mark/CLionProjects/Feed-Forward-Neural-Network/CMakeFiles/FNN.dir

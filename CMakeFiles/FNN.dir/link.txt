@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FNN.dir/main.cpp.o CMakeFiles/FNN.dir/utility_f.cpp.o CMakeFiles/FNN.dir/Layer.cpp.o CMakeFiles/FNN.dir/FFN.cpp.o  -o FNN  -lsfml-graphics -lsfml-window -lsfml-system 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FNN.dir/main.cpp.o  -o FNN 
